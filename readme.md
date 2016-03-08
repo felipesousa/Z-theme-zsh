@@ -11,4 +11,4 @@
   3. Reload ZSH with command `source ~/.zshrc.
 
 ## License
-[MIT License](https://github.com/felipesousa/oh-my-zsh-theme-z/blob/master/LICENSE) @ Felipe Sousa 2016
+[MIT License](https://github.com/felipesousa/Z-theme-zsh/blob/master/LICENSE) @ Felipe Sousa 2016
