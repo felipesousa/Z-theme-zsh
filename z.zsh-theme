@@ -1,6 +1,6 @@
 # Basic, beautiful and simple theme for oh-my-zsh bash.
 # It is recommended to use with font Inconsolata or Monaco.
-# https://github.com/felipesousa/oh-my-zsh-theme-z
+# https://github.com/felipesousa/Z-theme-zsh
 # Mar 2016
 
 # VCS
