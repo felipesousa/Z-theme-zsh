@@ -1,4 +1,4 @@
-
+![exampler](z-theme.gif)
 ## Installation
 
 ### Theme
