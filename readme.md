@@ -1,4 +1,6 @@
-![exampler](z-them.gif)
+<center>
+  ![exampler](theme.png)
+</center>
 ## Installation
 
 ### Theme
@@ -10,5 +12,9 @@
 
   3. Reload ZSH with command `source ~/.zshrc.
 
+### Example use
+<center>
+  ![example](z-them.gif)
+</center>
 ## License
 [MIT License](https://github.com/felipesousa/Z-theme-zsh/blob/master/LICENSE) @ Felipe Sousa 2016
