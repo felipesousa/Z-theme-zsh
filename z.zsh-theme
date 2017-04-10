@@ -4,7 +4,7 @@
 # Mar 2016
 
 # VCS
-YS_VCS_PROMPT_PREFIX1=" %{$fg[white]%}on%{$reset_color%} "
+YS_VCS_PROMPT_PREFIX1=" %{$fg[black]%}on%{$reset_color%} "
 YS_VCS_PROMPT_PREFIX2=":%{$fg[cyan]%}"
 YS_VCS_PROMPT_SUFFIX="%{$reset_color%}"
 
@@ -17,10 +17,10 @@ ZSH_THEME_GIT_PROMPT_CLEAN="$YS_VCS_PROMPT_CLEAN"
 
 # Prompt format: \n # USER in DIRECTORY on BRANCH \n $
 PROMPT="
-%{$fg[white]%}% -\
+%{$fg[white]%}λ\
 %{$terminfo[bold]$fg[blue]%}%{$reset_color%} \
 %{$fg[cyan]%}%n \
-%{$fg[white]%}in \
+%{$fg[black]%}in \
 %{$terminfo[bold]$fg[yellow]%}%c%{$reset_color%}\
 ${git_info}
-%{$terminfo[bold]$fg[red]%}→ %{$reset_color%}"
+%{$terminfo[bold]$fg[red]%}_ %{$reset_color%}"
