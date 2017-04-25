@@ -4,7 +4,7 @@
 # Mar 2016
 
 # VCS
-YS_VCS_PROMPT_PREFIX1=" %{$fg[black]%}on%{$reset_color%} "
+YS_VCS_PROMPT_PREFIX1=" %{$fg[white]%}on%{$reset_color%} "
 YS_VCS_PROMPT_PREFIX2=":%{$fg[cyan]%}"
 YS_VCS_PROMPT_SUFFIX="%{$reset_color%}"
 
